@@ -1,0 +1,39 @@
+# Windows
+Thumbs.db
+
+# gradle
+/.gradle
+/build
+
+# ForgeGradle
+/run
+
+# forge
+/src/generated
+/src/test
+
+# eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/eclipse
+/bin
+
+# intellij
+/out
+/.idea
+/atlassian-ide-plugin.xml
+/*.ipr
+/*.iws
+/*.iml
+
+# Jars
+*.jar
+!/gradle/wrapper/gradle-wrapper.jar
+!GardenOfGlass.jar
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
