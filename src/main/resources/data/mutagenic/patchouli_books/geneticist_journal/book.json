@@ -1,0 +1,10 @@
+{
+  "name": "Geneticist's Journal",
+  "landing_text": "Reading this could lead the world to it's death. It's the last note the author left. Be careful.",
+  "nameplate_color": "d4b9b1",
+  "book_texture": "patchouli:textures/gui/book_red.png",
+  "use_blocky_font": true,
+  "model": "mutagenic:geneticist_journal",
+  "creative_tab": "mutagenic",
+  "subtitle": "Author: ?????"
+}

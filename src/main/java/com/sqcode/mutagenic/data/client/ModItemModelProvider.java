@@ -18,6 +18,8 @@ public class ModItemModelProvider extends ItemModelProvider
     @Override
     protected void registerModels()
     {
+        getBuilder("geneticist_journal").parent(itemGenerated).texture("layer0", "item/geneticist_journal");
+
         getBuilder("crystallized_mutagen").parent(itemGenerated).texture("layer0", "item/crystallized_mutagen");
     }
 }

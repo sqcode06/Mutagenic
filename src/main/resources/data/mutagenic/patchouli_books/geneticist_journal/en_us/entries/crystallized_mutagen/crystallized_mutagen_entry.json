@@ -1,0 +1,11 @@
+{
+  "name": "Crystallized Mutagen",
+  "icon": "mutagenic:crystallized_mutagen",
+  "category": "mutagenic:resources_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A crystal form of pure mutagen"
+    }
+  ]
+}
